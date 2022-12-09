@@ -35,6 +35,14 @@ options:
 
 
 
+## Build Exe
+
+Install the pip package `pyinstaller` the run the following command:
+
+```pyinstaller compress_geotiff.spec```
+
+
+
 
 
 
