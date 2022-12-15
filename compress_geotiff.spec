@@ -8,7 +8,7 @@ a = Analysis(
     ['scripts\\compress_geotiff.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('.\\venv\\Lib\\site-packages\\rasterio\\proj_data', 'rasterio\\proj_data')],
     hiddenimports=['rasterio.sample', 'rasterio.vrt','rasterio._features'],
     hookspath=[],
     hooksconfig={},
