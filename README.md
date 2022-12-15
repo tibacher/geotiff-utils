@@ -30,7 +30,7 @@ The script `scripts/compress_geotiff.py` compresses large geotiff files even on 
 
 ```python scripts/compress_geotiff.py /path/to/input_file.tif output_filename.tif```
 
-options:
+see options:
   `-h`, `--help`           show this help message and exit
 
 
